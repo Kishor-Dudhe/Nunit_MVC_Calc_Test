@@ -1,0 +1,9 @@
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\bin\Debug\Nunit_MVC_Calc_Test.dll
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\bin\Debug\Nunit_MVC_Calc_Test.pdb
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\bin\Debug\MVC_Calc.exe
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\bin\Debug\nunit.framework.dll
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\bin\Debug\MVC_Calc.pdb
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\bin\Debug\nunit.framework.xml
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\obj\Debug\Nunit_MVC_Calc_Test.csprojResolveAssemblyReference.cache
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\obj\Debug\Nunit_MVC_Calc_Test.dll
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\obj\Debug\Nunit_MVC_Calc_Test.pdb
