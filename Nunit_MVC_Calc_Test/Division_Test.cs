@@ -17,7 +17,7 @@ namespace Nunit_MVC_Calc_Test
         public void DivisionOfTwoPositiveNumber()
         {
             int result;
-            result = c.div(10, 3);
+            result = c.div(10, 5);
             Assert.AreEqual(2m, result, "Division of two positive number failed");
         }
 
