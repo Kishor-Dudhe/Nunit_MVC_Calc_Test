@@ -7,3 +7,12 @@ c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Nunit_MVC_Calc_Test\
 c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\obj\Debug\Nunit_MVC_Calc_Test.csprojResolveAssemblyReference.cache
 c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\obj\Debug\Nunit_MVC_Calc_Test.dll
 c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\obj\Debug\Nunit_MVC_Calc_Test.pdb
+C:\Users\kishor.dudhe\Documents\GitHub\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\bin\Debug\Nunit_MVC_Calc_Test.dll
+C:\Users\kishor.dudhe\Documents\GitHub\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\bin\Debug\Nunit_MVC_Calc_Test.pdb
+C:\Users\kishor.dudhe\Documents\GitHub\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\bin\Debug\MVC_Calc.exe
+C:\Users\kishor.dudhe\Documents\GitHub\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\bin\Debug\nunit.framework.dll
+C:\Users\kishor.dudhe\Documents\GitHub\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\bin\Debug\MVC_Calc.pdb
+C:\Users\kishor.dudhe\Documents\GitHub\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\bin\Debug\nunit.framework.xml
+C:\Users\kishor.dudhe\Documents\GitHub\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\obj\Debug\Nunit_MVC_Calc_Test.csprojResolveAssemblyReference.cache
+C:\Users\kishor.dudhe\Documents\GitHub\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\obj\Debug\Nunit_MVC_Calc_Test.dll
+C:\Users\kishor.dudhe\Documents\GitHub\Nunit_MVC_Calc_Test\Nunit_MVC_Calc_Test\obj\Debug\Nunit_MVC_Calc_Test.pdb
